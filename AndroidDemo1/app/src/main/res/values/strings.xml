@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DLPUIT</string>
+    <string name="operator">log</string>
 </resources>
